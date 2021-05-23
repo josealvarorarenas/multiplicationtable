@@ -1,0 +1,12 @@
+#tabla_multiplica{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tabla{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 7px;
+    display: flex;
+    flex-direction: column;
+}
